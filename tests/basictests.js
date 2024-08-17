@@ -11,6 +11,10 @@ var testCases = [
     profile: 'indeterminate'
   },
   {
+    word: '1,000,000',
+    profile: 'indeterminate'
+  },
+  {
     word: 'Smidgeo',
     profile: 'firstonly'
   },
